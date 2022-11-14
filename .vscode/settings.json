@@ -1,0 +1,8 @@
+{
+    "editor.accessibilitySupport": "off",
+    "editor.tabCompletion": "on",
+    "workbench.activityBar.iconClickBehavior": "focus",
+    "files.simpleDialog.enable": false,
+    "workbench.editor.revealIfOpen": true,
+    "terminal.integrated.tabs.enabled": true
+}
